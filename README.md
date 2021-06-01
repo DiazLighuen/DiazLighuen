@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diaz Lighuen
+- 👀 I’m interested in neural network, web applications and mobile applications
+- 🌱 I’m currently learning about uses of neural network in trading
+- 💞️ I’m looking to collaborate on mobile applications
+- 📫 lighuen.diaz@gmail.com
